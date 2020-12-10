@@ -1,0 +1,7 @@
+[[constraint]]
+  branch = "STEP-140-command-exit-code"
+  name = "github.com/bitrise-io/go-utils"
+
+[prune]
+  go-tests = true
+  unused-packages = true
